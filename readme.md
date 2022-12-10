@@ -8,6 +8,6 @@
   - Operating systems
 
 ## Working right now
-  - Pen tests
+  - Pen tests, devops ci/cd
   
  Most of my projects are on gitlab: http://gitlab.com/vilniemi

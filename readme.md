@@ -8,6 +8,6 @@
   - Operating systems
 
 ## Working right now
-  - Pen tests, devops ci/cd, reaktio native app
+  - Pen tests, devops ci/cd, react native app
   
  Most of my projects are on gitlab: http://gitlab.com/vilniemi
